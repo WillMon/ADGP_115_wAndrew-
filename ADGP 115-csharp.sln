@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{EA745AF4-CB5B-51D8-05D4-29523E7FB2D9}") = "ADGP 115", "Assembly-CSharp-vs.csproj", "{29C7A154-FC2A-936A-3C19-0F104DF3A99C}"
 EndProject
+Project("{EA745AF4-CB5B-51D8-05D4-29523E7FB2D9}") = "ADGP 115", "Assembly-CSharp-Editor-vs.csproj", "{ECD973DB-787A-B7C7-C5F6-2E65E9E2E0F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,11 +15,15 @@ Global
 		{29C7A154-FC2A-936A-3C19-0F104DF3A99C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29C7A154-FC2A-936A-3C19-0F104DF3A99C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29C7A154-FC2A-936A-3C19-0F104DF3A99C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECD973DB-787A-B7C7-C5F6-2E65E9E2E0F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD973DB-787A-B7C7-C5F6-2E65E9E2E0F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD973DB-787A-B7C7-C5F6-2E65E9E2E0F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD973DB-787A-B7C7-C5F6-2E65E9E2E0F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-			GlobalSection(MonoDevelopProperties) = preSolution
+								GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
